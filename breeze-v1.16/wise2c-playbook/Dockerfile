@@ -1,1 +1,1 @@
-wise2c/playbook:v1.16.3
+from wise2c/playbook:v1.16.3
